@@ -61,7 +61,7 @@ Please note that if you are using the `docker-tag` post processor to tag the res
 
 It's recommended to build this plugin using `goop`. Install `goop`:
 
-    go get github.com/nitrous-io/goop && go build github.com/nitrous-io/goop
+    go get github.com/karmakaze/goop && go build github.com/karmakaze/goop
 
 Then build the packer plugin. From within the plugin source code directory use the commands:
 
